@@ -10,7 +10,6 @@ This project was bootstrapped for you with [Vite](https://vitejs.dev/).
 
 ## Available Scripts
 
-
 In the project directory, you can run:
 
 ### `npm start`
